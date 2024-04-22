@@ -1,4 +1,4 @@
 # ncit-demo
 I am a student.
 <br>
-Author - Rabin chaudhary
+Author - Rabin chaudhary (NCIT college)
